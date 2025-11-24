@@ -74,7 +74,7 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
     #   "images": ["https://.../jjampong1.jpg", "https://.../jjampong2.jpg"],
     #   "videos": ["https://youtu.be/XXXXXXXXXXX"]
     # },
-    label[0] : {"text" : ["중국식 냉면은 맛있어"], "image" : ["https://www.esquirekorea.co.kr/resources_old/online/org_online_image/eq/ae3b94d6-fed6-4144-a18e-8e92a094ee0b.jpg"]},
+    label[0] : {"text" : ["중국식 냉면은 맛있어"], "image" : ["https://www.dtoday.co.kr/news/photo/201905/309851_219721_1344.jpg"]},
     label[1] : {"text" : ["짜장면은 고소해"], "image" : ["https://img-cf.kurly.com/hdims/resize/%3E720x/quality/90/src/shop/data/goodsview/20230628/gv00000707399_1.jpg"]},
     label[2] : {"text" : ["탕수육은 달콤해"], "image" : ["https://homecuisine.co.kr/files/attach/images/142/737/002/969e9f7dc60d42510c5c0353a58ba701.JPG"]},
     label[3] : {"text" : ["짬뽕은 매워"], "image" : ["https://i.namu.wiki/i/upNZ7cYsFsAfU0KcguO6OHMK68xC-Bj8EXxdCti61Jhjx10UCBgdK5bZCEx41-aAWcjWZ5JMKFUSaUGLC1tqWg.webp"]},
